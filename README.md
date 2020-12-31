@@ -1,5 +1,6 @@
-# https://arcane-sea-38025.herokuapp.com/
-SignUp form USing MailChimp API
+# https://arcane-sea-38025.herokuapp.com
+
+Newsletter Sign-up Using MailChimp Email API Service
 
 Technology Used -
 Node JS
